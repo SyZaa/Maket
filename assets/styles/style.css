@@ -1,0 +1,23 @@
+.body{width: 100%;}
+.BOSS{
+    width: 1366px;
+    height: 4500px;
+}
+
+.Header{
+    width: 1366px;
+    height: 700px;
+    margin: 0 auto;
+    
+}
+.Navbar{
+    display: flex;
+    width: 1366px;
+    height: 100px;
+    background-color: black;
+}
+.button{
+    display: flex;
+    margin-left: 586px;
+    margin-top: 120px;
+}
