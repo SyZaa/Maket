@@ -2,6 +2,7 @@
 .BOSS{
     width: 1366px;
     height: 4500px;
+    margin: 0 auto;
 }
 
 .Header{
@@ -20,4 +21,42 @@
     display: flex;
     margin-left: 586px;
     margin-top: 120px;
+}
+.Brand_Bar1{
+    display: inline-block;
+    margin-left: 600px;
+   
+}
+.Features{
+    width: 1366px;
+    height:582px;
+    background-color: blue;
+}
+.Our_Process{
+    width: 1366px;
+    height: 582px;
+    background-color: chartreuse;
+}
+.Pricing{
+    width: 1366px;
+    height: 874px;
+    background-color: coral;
+}
+.Testimonials{
+    height: 585px;
+    background-color: darkgreen;
+    width: 1366px;
+}
+.Custom_Section{
+    height: 313px;
+    background-color: darksalmon;
+    width: 1366px;
+}
+.Contact_Us{
+    height: 606px;
+    background-color: deeppink;
+}
+.Footer{
+    height: 99px;
+    background-color: black;
 }
